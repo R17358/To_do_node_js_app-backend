@@ -10,3 +10,5 @@ app.listen(process.env.PORT, ()=>{
 });
 
 // npm i cors   for deployment
+//git
+//render.com
